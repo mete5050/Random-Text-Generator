@@ -1,11 +1,11 @@
 Türkçe:
 NOT : LİNUX İŞLETİM SİSTYEMİ İÇİN GEÇERLİDİR.Eğer Windows veya MacOS kullanıyorsanız bir İDE yardımı ile çalıştırabilirsiniz.
-İlk olarak .py dosyasının  olduğu konuma terminal ile gelin.
+İlk olarak .py dosyasının  olduğu konuma terminali kullanarak cd komutu ile gelin.
 Ör: cd ~/home/mete/Masaüstü/
 Eğer yanlış konumdaysanız 
 python: can't open file 'sifreyapiciTurkce.py': [Errno 2] No such file or directory
 hatasını alırsınız.
-Doğru konuma geldikten sonra 
+Doğru konuma geldikten sonra; 
 python sifreyapiciTurkce.py 
 komutunu çalıştırın.Uygulama çalışmaya başlayacaktır.
 
@@ -16,7 +16,7 @@ First open terminal and go to .py location.
 Ex:cd ~/home/mete/Masaüstü/
 İf you are false location you take
 python: can't open file 'passwormakerEnglish.py': [Errno 2] No such file or directory
-eror.When you true location write
+eror.When you true location write;
 python passwormakerEnglish.py
 Finally app start power on terminal.
 
