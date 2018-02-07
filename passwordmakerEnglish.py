@@ -1,4 +1,4 @@
-#DEVELOPED METE EKER
+#METE EKER
 print("! VERSION 1.0 !")
 import random
 dsyad = str()
