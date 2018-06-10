@@ -10,14 +10,4 @@ python sifreyapiciTurkce.py
 komutunu çalıştırın.Uygulama çalışmaya başlayacaktır.
 
 
-English:
-NOTE : THIS WAY SUPPORT JUST LİNUX.If you have Windows or MacOs you can power it on any Python IDE.
-First open terminal and go to .py location.
-Ex:cd ~/home/mete/Masaüstü/
-İf you are false location you take
-python: can't open file 'passwormakerEnglish.py': [Errno 2] No such file or directory
-eror.When you true location write;
-python passwormakerEnglish.py
-Finally app start power on terminal.
-
 
