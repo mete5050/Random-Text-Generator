@@ -1,13 +1,16 @@
 Türkçe:
-NOT : LİNUX İŞLETİM SİSTYEMİ İÇİN GEÇERLİDİR.Eğer Windows veya MacOS kullanıyorsanız bir İDE yardımı ile çalıştırabilirsiniz.
-İlk olarak .py dosyasının  olduğu konuma terminali kullanarak cd komutu ile gelin.
-Ör: cd ~/home/mete/Masaüstü/
-Eğer yanlış konumdaysanız 
-python: can't open file 'sifreyapiciTurkce.py': [Errno 2] No such file or directory
-hatasını alırsınız.
-Doğru konuma geldikten sonra; 
-python sifreyapiciTurkce.py 
-komutunu çalıştırın.Uygulama çalışmaya başlayacaktır.
-
-
-
+MacOs veya Linux adımları
+1. Terminali açıp cd komutu ile Şifre Oluşturucunun bulunduğu dizine gidin.
+2. python sifreyapiciTurkce.py ile uygulamayı başlatın.
+Windows adımları
+1. Python'u indirin. Kurulum sırasında Add to Path'i işaretlemeyi unutmayın.
+2. Powershell 'i açıp 'cd' komutu ile Şifre Oluşturucunun bulunduğu dizine gidin.
+3. 'python uygulama.py' ile uygulamayı başlatın.
+English
+Steps for MacOs and Linux
+1. Start the terminal, and rotate to the directory of password maker using the command cd.
+2. Start the application by typing python passwordmakerEnglish.py.
+Steps for Windows
+1. Download Python. Do not forget to check Add to Path.
+2. Rotate to the directory of Password Maker using the command cd.
+3. Start the application by typing python app.py.
